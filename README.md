@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kamran Ahmed Siddiqui!<br>🚀 React Native | React.js | Flutter | Dart | AI & Python Enthusiast<br><br>I'm a mobile & web developer specializing in React Native, and React.js, with a growing interest in AI & Python. I love building high-performance apps and exploring AI-driven solutions.<br><br>🔹 Current Focus: Agentic AI, Python, and scalable app development.<br>💬 Let's Connect! Reach me at thekamranahmedsiddiqui@gmail.com
+👋 Hi, I'm Kamran Ahmed Siddiqui!<br>🚀 Hybird Mobile Application Developer | AI & Python Enthusiast<br><br>I'm a mobile & web developer specializing in React Native, and React.js, with a growing interest in AI & Python. I love building high-performance apps and exploring AI-driven solutions.<br><br>🔹 Current Focus: Agentic AI, Python, and scalable app development.<br>💬 Let's Connect! Reach me at thekamranahmedsiddiqui@gmail.com
 
 
 ## 🌐 Socials:
