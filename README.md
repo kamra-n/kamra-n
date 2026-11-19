@@ -17,9 +17,9 @@ Software Engineer with 3 years of experience in the JavaScript ecosystem, primar
 | AI Integrations | OpenAI SDK, AI agents |
 | Delivery & Tooling | Git, GitHub, App Store, Google Play, Apache, NGINX |
 
-## Selected Projects
+## Real World Contributions
 
-The following projects are featured on my portfolio. Application links are taken from the portfolio. Source code links were not provided there.
+
 
 ### Emplara
 
@@ -28,6 +28,14 @@ An HR and leave management app for employees and managers to review leave balanc
 **Technologies:** React Native, TypeScript
 
 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.dakar.emplara&hl=en) · [App Store](https://apps.apple.com/pk/app/emplara/id6745791868)
+
+### Laureate International Tech and Academy
+
+An AI-powered learning management system offering online courses, learning resources, progress tracking, and support through the MAKI AI Tutor.
+
+**Technologies:** React.js, TypeScript, Express.js, PostgreSQL, WebSockets
+
+**Links:** [Live Website](https://laureate.org.uk/lms)
 
 ### Brands Valley
 
@@ -45,13 +53,6 @@ A seller-facing mobile app for managing shops, product listings, inventory, orde
 
 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.bvsellerOrg&hl=en)
 
-### Laureate International Tech and Academy
-
-An AI-powered learning management system offering online courses, learning resources, progress tracking, and support through the MAKI AI Tutor.
-
-**Technologies:** React.js, TypeScript, Express.js, PostgreSQL, WebSockets
-
-**Links:** [Live Website](https://laureate.org.uk/lms)
 
 ### CADPRO HUB
 
