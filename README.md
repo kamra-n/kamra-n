@@ -74,7 +74,7 @@ A recruitment and career platform connecting candidates, representatives, and em
 
 | Role | Organization | Period |
 | --- | --- | --- |
-| Mobile Application Developer | Dakar Software Systems | Mar 2026 – Present |
+<!--| Mobile Application Developer | Dakar Software Systems | Mar 2026 – Present |-->
 | Web and Mobile Application Developer | BBI - HUB | Aug 2023 – Feb 2026 |
 | Junior Front-end Developer | Stexity | Nov 2022 – Jul 2023 |
 
