@@ -1,14 +1,87 @@
-# 💫 About Me:
-👋 Hi, I'm Kamran Ahmed Siddiqui!<br>🚀 Hybrid Mobile Application Developer | AI & Python Enthusiast<br><br>I'm a mobile & web developer specializing in React Native, and React.js, with a growing interest in AI & Python. I love building high-performance apps and exploring AI-driven solutions.<br><br>🔹 Current Focus: Agentic AI, Python, and scalable app development.<br>💬 Let's Connect! Reach me at thekamranahmedsiddiqui@gmail.com
+# Kamran Ahmed Siddiqui
 
+**Software Engineer | React Native & Web Developer**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thekamransiddiqui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thekamranahmedsiddiqui@gmail.com) 
+Software Engineer with 3 years of experience in the JavaScript ecosystem, primarily focused on building cross-platform mobile applications with React Native. I also work with React.js, Node.js, API integrations, and AI-powered features, from translating business requirements into solutions through application deployment.
 
+[Portfolio](https://this-coder-is-alive.web.app/) · [LinkedIn](https://www.linkedin.com/in/thekamransiddiqui) · [Email](mailto:thekamranahmedsiddiqui@gmail.com)
 
-## ✍️ Today Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Technical Expertise
 
-[![](https://visitcount.itsvg.in/api?id=kamra-n&icon=0&color=0)](https://visitcount.itsvg.in)
+| Area | Technologies |
+| --- | --- |
+| Mobile Development | React Native, TypeScript, JavaScript |
+| Web Development | React.js, Next.js, Node.js, Express.js |
+| Databases & Services | PostgreSQL, Firebase, Supabase |
+| Application Development | API integration, state management, UI development |
+| AI Integrations | OpenAI SDK, AI agents |
+| Delivery & Tooling | Git, GitHub, App Store, Google Play, Apache, NGINX |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected Projects
+
+The following projects are featured on my portfolio. Application links are taken from the portfolio. Source code links were not provided there.
+
+### Emplara
+
+An HR and leave management app for employees and managers to review leave balances, submit requests, handle approvals, and view team availability through a shared calendar.
+
+**Technologies:** React Native, TypeScript
+
+**Links:** [Google Play](https://play.google.com/store/apps/details?id=com.dakar.emplara&hl=en) · [App Store](https://apps.apple.com/pk/app/emplara/id6745791868)
+
+### Brands Valley
+
+A multi-vendor shopping marketplace where customers in Pakistan can explore products from different brands and sellers.
+
+**Technologies:** React Native, TypeScript, Firebase, Stripe
+
+**Links:** [Google Play](https://play.google.com/store/apps/details?id=com.brandsvalley&hl=en)
+
+### BV Seller
+
+A seller-facing mobile app for managing shops, product listings, inventory, orders, promotions, and sales performance.
+
+**Technologies:** React Native, TypeScript, Firebase
+
+**Links:** [Google Play](https://play.google.com/store/apps/details?id=com.bvsellerOrg&hl=en)
+
+### Laureate International Tech and Academy
+
+An AI-powered learning management system offering online courses, learning resources, progress tracking, and support through the MAKI AI Tutor.
+
+**Technologies:** React.js, TypeScript, Express.js, PostgreSQL, WebSockets
+
+**Links:** [Live Website](https://laureate.org.uk/lms)
+
+### CADPRO HUB
+
+A career deployment app for representatives to register and manage candidates, upload documents, and share candidate profiles.
+
+**Technologies:** React Native, Firebase, Redux Toolkit
+
+**Links:** [Google Play](https://play.google.com/store/apps/details?id=com.representative.app)
+
+### NSE-HUB
+
+A recruitment and career platform connecting candidates, representatives, and employers, with tools for candidate profiles, career opportunities, and hiring workflows.
+
+**Technologies:** React Native, TypeScript, Firebase, Redux Toolkit
+
+**Links:** [Google Play](https://play.google.com/store/apps/details?id=com.cademp)
+
+## Professional Experience
+
+| Role | Organization | Period |
+| --- | --- | --- |
+| Mobile Application Developer | Dakar Software Systems | Mar 2026 – Present |
+| Web and Mobile Application Developer | BBI - HUB | Aug 2023 – Feb 2026 |
+| Junior Front-end Developer | Stexity | Nov 2022 – Jul 2023 |
+
+## Contact
+
+I’m open to discussing software engineering opportunities and collaborations.
+
+- **Portfolio:** [this-coder-is-alive.web.app](https://this-coder-is-alive.web.app/)
+- **LinkedIn:** [thekamransiddiqui](https://www.linkedin.com/in/thekamransiddiqui)
+- **GitHub:** [kamra-n](https://github.com/kamra-n)
+- **Email:** [thekamranahmedsiddiqui@gmail.com](mailto:thekamranahmedsiddiqui@gmail.com)
